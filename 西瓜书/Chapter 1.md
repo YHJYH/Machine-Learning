@@ -42,5 +42,17 @@ supervised learning：监督学习<br>
     independent and identically distributed: i.i.d. 独立同分布，从全体样本服从的，未知的distribution中获得的每个sample都是独立地从该分布上采样获得的；
     
  ## 1.3 假设空间
- 
+ 科学推理手段：<br>
+induction(归纳)：从特殊到一般，generalization泛化过程；<br>
+deduction(演绎)：从一般到特殊，specialization特化过程；<br>
+
+inductive learning：归纳学习，从example中学习<br>
+分为<br>
+广义归纳学习：从example中学习;<br>
+狭义归纳学习：从training data中学得concept(概念)，概念学习/形成;<br>
+       *布尔概念学习：对0/1布尔值的目标概念的学习。
+       
+version space: 版本空间，与训练集一致的假设集合<br>
+
+## 1.4 归纳偏好
 
