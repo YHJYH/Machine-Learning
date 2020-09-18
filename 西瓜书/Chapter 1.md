@@ -34,7 +34,8 @@ supervised learning：监督学习<br>
  unsupervised learning：无监督学习<br>
     
     包含clustering聚类（将training set中的sample分成若干cluster簇，无label）
-
+ <br>
+ 
     testing：测试，使用学得模型进行预测的过程；
     testing sample：测试样本
 
