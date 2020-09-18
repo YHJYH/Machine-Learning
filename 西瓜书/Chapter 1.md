@@ -38,4 +38,9 @@ supervised learning：监督学习<br>
  
     testing：测试，使用学得模型进行预测的过程；
     testing sample：测试样本
+    generalization: 泛化能力，学得模型适用于新样本的能力；
+    independent and identically distributed: i.i.d. 独立同分布，从全体样本服从的，未知的distribution中获得的每个sample都是独立地从该分布上采样获得的；
+    
+ ## 1.3 假设空间
+ 
 
