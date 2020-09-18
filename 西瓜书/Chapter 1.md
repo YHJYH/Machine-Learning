@@ -73,6 +73,8 @@ Occam's razor: 奥卡姆的剃刀，若有多个假设与观察一致，则选�
 则La在training data之外的sample上的误差为:<br>
 E_ote(La|X,f) = sum(all h)sum(x belongs to sample space-X) P(x)*delta-function(h(x) not equal to f(x))*P(h|X,La)<br>
 若delta function内条件达到，delta function等于1，否则为0; <br>
+基于书中推导得出（1.1）和（1.2）<br>
+关于（1.2）的一个小地方：1/2*2^|X|, 有X个sample，每个sample有两个可能output（0/1），一共有一半的f(x)与h(x)不一致（delta function的限定条件所以只考虑不一致）.<br>
 
 
 
