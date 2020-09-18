@@ -23,12 +23,12 @@
     label space: 标记/输出空间，所有label的集合；
 
 supervised learning：监督学习<br>
-  *包含
+包含<br>
         classification分类（预测离散值，包含binary classification【positive/negative class, label space = {0,1} or {-1,+1}】和multi-class classification【|label space| > 2】）
 和<br>
         regression回归（预测连续值）（label space = R (real set)）；
  unsupervised learning：无监督学习<br>
-  *包含clustering聚类（将training set中的sample分成若干cluster簇，无label）
+ 包含clustering聚类（将training set中的sample分成若干cluster簇，无label）
 
     testing：测试，使用学得模型进行预测的过程；
     testing sample：测试样本
