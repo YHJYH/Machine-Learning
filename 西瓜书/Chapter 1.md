@@ -64,8 +64,14 @@ inductive bias: 归纳偏好，算法在学习过程中对某种类型hypothesis
 <br>
 引导algorithm确定"正确"偏好的一般性原则：<br>
 Occam's razor: 奥卡姆的剃刀，若有多个假设与观察一致，则选择最简单的那个。<br>
-<br>
-
+然而其并非平凡原则【假设：什么样的模型更好】<br>
+现实问题中：算法的归纳偏好是否与问题本身匹配。<br><br>
+结论：总误差与学习算法无关。<br>
+证明：<br>
+使用算法La，基于training data X，其inductive bias选择hypothesis function h的概率是P(h|X,La);<br>
+使f表示ground-truth function；<br>
+则La在training data之外的sample上的误差为:<br>
+E_ote(La|X,f) = sum(all h)sum(x belongs to sample space-X) P(x)*delta-function(h(x) not equal to f(x))*P(h|X,La)<br>
 
 
 
