@@ -50,7 +50,7 @@ inductive learning：归纳学习，从example中学习<br>
 分为<br>
 广义归纳学习：从example中学习;<br>
 狭义归纳学习：从training data中学得concept(概念)，概念学习/形成;<br>
-       *布尔概念学习：对0/1布尔值的目标概念的学习。
+        布尔概念学习：对0/1布尔值的目标概念的学习。
        
 version space: 版本空间，与训练集一致的假设集合<br>
 
