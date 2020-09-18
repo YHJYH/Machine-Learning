@@ -1,13 +1,13 @@
 # Chapter 1 Introduction
 ## 1.1
-机器学习(Machine learning): 在计算机上从数据中产生model(模型)的算法，即learning algorithm(学习算法).
+机器学习(Machine learning): 在计算机上从数据中产生model(模型)的算法，即learning algorithm(学习算法).<br>
 形式化定【Mitchell 1997】
 
 ## 1.2 基本术语
-data set: 数据集，记录的集合；
-instance/sample: 示例/样本，数据集中的每条记录；
-attribute/feature: 属性/特征，反映事件/对象在某方面的表现/性质；
-attribute value: 属性值；
+    data set: 数据集，记录的集合；
+    instance/sample: 示例/样本，数据集中的每条记录；
+    attribute/feature: 属性/特征，反映事件/对象在某方面的表现/性质；
+    attribute value: 属性值；
 attribute/sample space: 属性/样本空间，属性张成的空间；
 feature vector: 特征向量，每个事物在杨蓓空间中的坐标位置，示例；
 dimensionality: 维数，属性个数；
