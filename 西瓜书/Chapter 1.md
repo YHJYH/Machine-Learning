@@ -49,12 +49,26 @@ supervised learning：监督学习<br>
 
 inductive learning：归纳学习，从example中学习，分为<br>
 
-    广义归纳学习：从example中学习;<br>
-    狭义归纳学习：从training data中学得concept(概念)，概念学习/形成;<br>
+    广义归纳学习：从example中学习;
+    狭义归纳学习：从training data中学得concept(概念)，概念学习/形成;
         
         布尔概念学习：对0/1布尔值的目标概念的学习。
        
 version space: 版本空间，与训练集一致的假设集合<br>
 
 ## 1.4 归纳偏好
+version space中hypothesis的选择：通过训练样本无法判断；<br>
+因此，通过学习算法本身的“偏好”进行hypothesis的选择.<br>
+inductive bias: 归纳偏好，算法在学习过程中对某种类型hypothesis的偏好；<br>
+任何有效的ML算法必有其inductive bias.<br>
+<br>
+引导algorithm确定"正确"偏好的一般性原则：<br>
+Occam's razor: 奥卡姆的剃刀，若有多个假设与观察一致，则选择最简单的那个。<br>
+<br>
+
+
+
+
+
+
 
