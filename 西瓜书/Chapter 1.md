@@ -43,13 +43,14 @@ supervised learning：监督学习<br>
     
  ## 1.3 假设空间
  科学推理手段：<br>
-induction(归纳)：从特殊到一般，generalization泛化过程；<br>
-deduction(演绎)：从一般到特殊，specialization特化过程；<br>
+ 
+    induction(归纳)：从特殊到一般，generalization泛化过程；
+    deduction(演绎)：从一般到特殊，specialization特化过程；
 
-inductive learning：归纳学习，从example中学习<br>
-分为<br>
-广义归纳学习：从example中学习;<br>
-狭义归纳学习：从training data中学得concept(概念)，概念学习/形成;<br>
+inductive learning：归纳学习，从example中学习，分为<br>
+
+    广义归纳学习：从example中学习;<br>
+    狭义归纳学习：从training data中学得concept(概念)，概念学习/形成;<br>
         
         布尔概念学习：对0/1布尔值的目标概念的学习。
        
