@@ -72,6 +72,7 @@ Occam's razor: 奥卡姆的剃刀，若有多个假设与观察一致，则选�
 使f表示ground-truth function；<br>
 则La在training data之外的sample上的误差为:<br>
 E_ote(La|X,f) = sum(all h)sum(x belongs to sample space-X) P(x)*delta-function(h(x) not equal to f(x))*P(h|X,La)<br>
+若delta function内条件达到，delta function等于1，否则为0; <br>
 
 
 
