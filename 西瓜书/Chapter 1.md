@@ -8,9 +8,9 @@
     instance/sample: 示例/样本，数据集中的每条记录；
     attribute/feature: 属性/特征，反映事件/对象在某方面的表现/性质；
     attribute value: 属性值；
-attribute/sample space: 属性/样本空间，属性张成的空间；
-feature vector: 特征向量，每个事物在杨蓓空间中的坐标位置，示例；
-dimensionality: 维数，属性个数；
+    attribute/sample space: 属性/样本空间，属性张成的空间；
+    feature vector: 特征向量，每个事物在杨蓓空间中的坐标位置，示例；
+    dimensionality: 维数，属性个数；
 learning/training: 学习/训练，从数据中学得模型的过程（为了找出和逼近ground-truth）；
 training data: 训练数据，训练过程中使用的数据；
 training sample: 训练样本，训练数据中的每一个样本；
