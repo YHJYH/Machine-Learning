@@ -94,6 +94,21 @@ E_ote(La|X,f) = sum(all h)sum(x belongs to sample space-X) P(x)*delta-function(h
 (色泽=青绿；根蒂=*；敲声=*)<br>
 
 1.2<br>
+hypothesis space = 1+（3\[根蒂=蜷缩/硬挺/稍蜷]*3\[敲声=浊响/清脆/沉闷]*2\[色泽=青绿/乌黑]）*3 = 55<br>
+因此k的最大值为55；<br>
+∴有55种可能的假设。
+
+1.3<br>
+满足sample最多的hypothesis（including满足最多feature的假设）<br>
+
+1.4<br>
+NFL的必要前提：f均匀分布；造成的结果：一半的f match h；<br>
+因此，性能度量l(h(x),f(x))是一个constant；<br>
+∴NFL成立。<br>
+
+1.5<br>
+广告，短视频等推荐类。<br>
+
 
 
 
