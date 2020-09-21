@@ -1,6 +1,6 @@
 # Machine-Learning
 学习笔记<br>
-[using github](https://blog.csdn.net/u012067966/article/details/50736647)
+[using github](https://blog.csdn.net/u012067966/article/details/50736647)<br>
 I am an undergraduate student studying at the University of Manchester and my major is Theoretical Physics.<br>
 Now my interest shifts to an uprising area---machine learning, and my main research focus in graduate and doctorial degree will be in compiter vision (hopefully);<br>
 This is repo is my learning path & notes;<br>
