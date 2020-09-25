@@ -5,16 +5,13 @@
     error: 误差，实际预测输出-样本真实输出
     training/empirical error: 训练/经验误差，学习器在训练集上的误差
     generalization error: 泛化误差，学习器在新样本上的误差
-<br>
 目标：得到generalization error小的学习器。<br>
 
     overfitting: 过拟合，将 训练样本的自身特点 当作 潜在样本的一般性质
     underfitting: 欠拟合，训练样本的一般性质未习得
-<br>
 注意：overfitting无法避免<br>
 目标：缓解过拟合<br>
-<br>
-    
+ 
     model selection：模型选择，最终模型=学习算法+参数配置
 问题：无法获得generalization error，无法直接使用training error（overfitting）<br>
 **How to access and select model?**<br>
