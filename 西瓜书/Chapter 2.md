@@ -77,10 +77,11 @@ out-of-bag estimate: 包外估计，由此产生的测试结果<br>
 
 ## 2.3 性能度量（performance measure）
 >本节目录<br>
->错误率 与 精度<br>
->查准率，查全率 与 F1<br>
->ROC 与 AUC<br>
->代价敏感错误率 与 代价曲线<br>
+>1. 错误率 与 精度<br>
+>2. 查准率，查全率 与 F1<br>
+>3. ROC 与 AUC<br>
+>4. 代价敏感错误率 与 代价曲线<br>
+
 模型的好坏取决于：算法，数据，任务需求<br>
 performance measure：反映任务需求<br>
 
