@@ -83,10 +83,27 @@ out-of-bag estimate: 包外估计，由此产生的测试结果<br>
 >4. 代价敏感错误率 与 代价曲线<br>
 
 模型的好坏取决于：算法，数据，任务需求<br>
-performance measure：反映任务需求<br>
+**performance measure：反映任务需求**<br>
 
 ### 2.3.1 错误率 与 精度
+    error rate：错误率，分类错误的样本数/样本总数<br>
+    accuracy：精度，分类正确的样本数/样本总数<br>
+
+错误率见式(2.4)(2.6)，精度见式(2.5)(2.7)<br>
+
 ### 2.3.2 查准率，查全率 与 F1
+    confusion matrix：混淆矩阵，包含真正例true positive，假正例false positive，真反例true negative，假反例false negative<br>
+
+TP+FP+TN+FN=样例总数<br>
+
+    precision: 查准率P=TP/(TP+FP)，表示查得有多准，即在所有预测为positive的结果里正确率有多高
+    recall: 查全率R=TP/(TP+FN)，表示查得有多全，即在所有真实为positive的样例里正确率有多高
+
+P和R二者相矛盾
+<br>
+P-R曲线：查准率-查全率曲线<br>
+用法：如果一个学习器的PR曲线被另一个的完全包住，则后者优于前者<br>
+
 ### 2.3.3 ROC 与 AUC
 ### 2.3.4 代价敏感错误率 与 代价曲线
 
