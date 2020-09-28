@@ -14,11 +14,13 @@ where _n_ represents the number of bounces.<br>
 Given user input for the initial height, minimum height of interest, and _η_; we expect your codeto be able to calculate the following:<br>
 1. The number of bounces over _h\_min_, _n_.<br>
 2. How many seconds it takes to complete these bounces.<br>
+
 We will also be marking you on programme style and expect your code to contain:<br>
 1. A clear header with the author, date and purpose of the code.<br>
 2. Reasonable assumptions for any constants that should be clearly named.<br>
 3. Useful functions that break up the calculations.<br>
 4. Unambiguous variable and function names.<br>
 5. Results outputted clearly.<br>
+
 We will award additional marks based on how well written the submission is and if it can provide any additional information.  For instance,  does it validate any of the input variables? Does it validate them well?  Can it calculate anything else?  Can the user decide this?<br>
 Good luck!
