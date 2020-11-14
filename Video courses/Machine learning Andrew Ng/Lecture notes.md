@@ -8,4 +8,7 @@ training set<br>
 cost function<br>
 parameter<br>
 modelling error<br>
-Goal: find parameters that minimize cost function <em>J</em><br>
+Goal: find parameters that minimize cost function <em>J</em>: need an algorithm<br>
+<br>
+gradient descent algorithm<br>
+
