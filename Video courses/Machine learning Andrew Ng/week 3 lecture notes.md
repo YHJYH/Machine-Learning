@@ -11,7 +11,7 @@ decision boundary<br>
 linear and nonlinear DB<br>
 <br>
 cost function<br>
-logistic regression cost function (general form)<br>
+<b>logistic regression cost function</b> (general form)<br>
 not use linear regression cost function because it is a non-convex function: too many local minima.<br>
 
 
