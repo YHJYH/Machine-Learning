@@ -16,5 +16,20 @@ e.g. x_2 = x^2, x_3 = x^3<br>
 need feature scaling<br>
 <br>
 <b>normal equation</b>: solve for theta in J(theta) analytically.<br>
+1D: differentiation<br>
+n-D: partial differentiation<br>
+alternatively: using matrix<br>
+theta = (X^T X)^-1 X^T y<br>
+where, X is the <b>feature matix</b> represents all features of all examples, y is a <b>label vector</b> contains the labels/outputs of each example<br>
+<br>
+advantages and disadvantages of gradient descent and normal equation<br>
+Gradient descent:<br>
+1. need to choose learning rate alpha (NE doesn't);<br>
+2. needs many iterations (NE doesn't);<br>
+3. works well when n is large (NE is slow if n is large, needs to compute the matrix operation);<br>
+<br>
+Q: what does it mean when there is no inverse?<br>
+non-invertible matrix: <b>singular/degenerate matrix</b><br>
+
 
 
