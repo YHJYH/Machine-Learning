@@ -30,6 +30,9 @@ Gradient descent:<br>
 <br>
 Q: what does it mean when there is no inverse?<br>
 non-invertible matrix: <b>singular/degenerate matrix</b><br>
-
+1. two features are related (<b>linearly dependent</b>), e.g. x_1 = area in m^2, x_2 = area in feet^2;<br>
+2. too many features (m <= n, # of samples <= # of features): then delete some features or use <b>regularization</b> (later topic)<br>
+<br>
+Octave tutorial is skipped<br>
 
 
