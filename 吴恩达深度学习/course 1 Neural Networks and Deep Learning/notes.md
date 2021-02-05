@@ -11,3 +11,10 @@ X.shape = (nx,m)<br>
 Y = \[y^(1) y^(2) ... y^(m)]<br>
 so Y is a R_1\*m dimensional matrix<br>
 Y.shape = (1,m)<br>
+### Logistic regression
+given x, want y-hat (estimated y), y-hat = P(y=1|x)<br>
+<b>linear regression</b>: y-hat = w^T \* x + b<br>
+w属于R^nx dimension, b属于R<br>
+<b>logistic regression</b>: sigmoid(linear regression): 确保值在\[0,1]<br>
+
+
