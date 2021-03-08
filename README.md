@@ -9,4 +9,7 @@
 如果有任何问题或者建议，可以直接发送pull request，也可以给我的个人邮箱发邮件：yuheng_jia@outlook.com<br>
 祝各位都拿到心仪的offer！<br>
 <br>
-27/09/2020
+27/09/2020<br>
+
+<br><br>
+我tm就是个菜鸡<br>
