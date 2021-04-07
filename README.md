@@ -14,3 +14,7 @@
 <br><br>
 我tm就是个菜鸡<br>
 08/03/2021
+
+<br><br>
+I am accepted by UCL's MSc Computational Statistics and Machine Learning!!!<br>
+07/04/2021
